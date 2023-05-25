@@ -11,6 +11,6 @@ package p2aga4s21;
 public class P2AGA4S21 {
     public static void main(String[] args){
         
-        
+        new JFPrincipal().setVisible(true);
     }
 }
